@@ -38,5 +38,3 @@ The **Creative People Digital Art** website serves as a platform to display the 
 To explore the captivating world of **Creative People Digital Art**, simply click the link below:
 
 [Visit the Creative People Digital Art Website](https://andrijadenic9.github.io/cp-digital-art/)
-
-Feel free to reach out for any inquiries or collaborations. Enjoy your visit!
